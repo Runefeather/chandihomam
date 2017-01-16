@@ -1,0 +1,27 @@
+{
+  "name": "chandihomam",
+  "version": "1.0.0",
+  "description": "Website for Chandi Homam 2017",
+  "main": "server.js",
+  "scripts": {
+    "test": " make test"
+  },
+  "dependencies": {
+    "express": "~4.8.0",
+    "body-parser": "~1.0.1",
+    "request": "~2.74.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Runefeather/chandihomam.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Dhanya Janaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Runefeather/chandihomam/issues"
+  },
+  "homepage": "https://github.com/Runefeather/chandihomam#readme"
+}
